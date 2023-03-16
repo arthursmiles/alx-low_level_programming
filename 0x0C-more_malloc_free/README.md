@@ -1,0 +1,1 @@
+malloc is a standard library function in C and C++ programming languages that dynamically allocates memory at run time. It allows a programmer to request a block of memory of a specified size and returns a pointer to the first byte of the allocated memory block.
