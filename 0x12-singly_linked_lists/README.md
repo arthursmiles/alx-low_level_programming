@@ -1,0 +1,1 @@
+A singly linked list is a data structure used to store a collection of elements, where each element is represented as a node containing both data and a pointer to the next node in the list. The first node in the list is called the head, and the last node is called the tail. Singly linked lists can be used to implement stacks, queues, and other data structures.
